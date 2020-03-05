@@ -16,8 +16,8 @@
  *orange 2
  
  ordered list
- *brinjal
- *cabbage
- *drum sticks
-   *.drum sticks 1
-   *.drum sticks 2
+ * brinjal
+ * cabbage
+ * drum sticks
+   * drum sticks 1
+   * drum sticks 2
